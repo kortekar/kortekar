@@ -1,3 +1,6 @@
+<img src="header.png" width="100%" >
+
+
 ### Hi there 👋, i'm CHANDAN KORTEKAR
 #### a WEB DEVELOPER
  Seeking a position that offers opportunities for personal and professional development in software engineering field
