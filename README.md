@@ -5,7 +5,8 @@
 #### a WEB DEVELOPER
  Seeking a position that offers opportunities for personal and professional development in software engineering field
 
-- 🔭 I’m currently working on PARVAM consult-tech pvt lmt 
+- 🔭 I’m currently working on Otomeyt as an IT RECRUITER.
+- 🔭 I worked as an associate engineer trainee in PARVAM consult-tech pvt lmt 
 - 🌱 I’m currently learning React'js 
 - 💬 Ask me about WEB  
 - 📫 How to reach me: ckortekar93@gmail.com  // kortekardot30@gmail.com  // +91-7406244916
