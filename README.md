@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>&nbsp;
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="Amazon-web-services-logo-PNG.png" alt="aws" width="60" height="40"/>
+    <img src="aws.png" alt="aws" width="60" height="40"/>
   </a>&nbsp;
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
