@@ -35,7 +35,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="[https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-original-wordmark.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F610%2F693%2Fpng-transparent-amazon-aws-logo.png&tbnid=i-IOsjnai942VM&vet=12ahUKEwjPqZyVxfuCAxU2TGwGHWRkCvsQMygCegQIARB3..i&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-aibxb&docid=JV1hmOpAtOQbYM&w=920&h=360&q=aws%20logo%20png&ved=2ahUKEwjPqZyVxfuCAxU2TGwGHWRkCvsQMygCegQIARB3)" alt="aws" width="40" height="40"/>
+    <img src="Amazon-web-services-logo-PNG.png" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
@@ -59,10 +59,10 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
-    <img src="https://path-to-adobe-logo.svg" alt="adobe" width="40" height="40"/>
+    <img src="creative-cloud-cc-logo-png-1890.png" alt="adobe" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/" target="_blank" rel="noreferrer">
-    <img src="https://path-to-microsoft-logo.svg" alt="microsoft" width="40" height="40"/>
+    <img src="kisspng-office-365-home-yearly-subscription-microsoft-offi-future-technology-appliance-tech-support-comput-5b6aafa2222826.5114187815337184341399.png" alt="microsoft" width="40" height="40"/>
   </a>
 </p>
 
