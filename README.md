@@ -41,6 +41,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kortekar&theme=dark&show_icons=true)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kortekar)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kortekar&show_icons=true&locale=en&layout=compact" alt="kortekar" /></p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kortekar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chandankortekar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ckortekar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mr_kortekar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kortekar.github.io/portfolio/index.html)  
