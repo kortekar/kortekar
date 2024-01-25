@@ -2,8 +2,9 @@
 
 
 ### Hi there 👋, i'm CHANDAN KORTEKAR
+
 #### i was a WEB DEVELOPER 🖥️
-#### Now I'm working on Devops Projects🤞🏻
+### Now I'm working on Devops Projects🤞🏻
 
 - 🔭 I worked as an associate engineer trainee in PARVAM consult-tech pvt lmt 
 - 🌱 I’m currently learning so many things❤️‍🔥
