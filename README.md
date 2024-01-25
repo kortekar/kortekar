@@ -6,6 +6,7 @@
 #### i was a WEB DEVELOPER 🖥️
 ### Now I'm working on Devops Projects🤞🏻
 
+- Currently Working💻 in an startup 👍 as a Devops Engineer 
 - 🔭 I worked as an associate engineer trainee in PARVAM consult-tech pvt lmt 
 - 🌱 I’m currently learning so many things❤️‍🔥
 - 💬 Ask me about WEB, Devops( Docker , Jenkins , Kubernetes , gradle , GCP , Git / Gitlab , Java , Springboot , Postgress , Terraforms ) 
