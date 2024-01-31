@@ -13,10 +13,10 @@
 - 📫 How to reach me: ckortekar93@gmail.com  // kortekardot30@gmail.com  // +91-7406244916
 - Portfolio -- <a href="https://kortekar.github.io/portfolio/" target="_blank"> CLICK HERE </a>
  # Tutorials
- ### ✅ Terraforms : <a href ="https://github.com/kortekar/Terraforms" target="_blank"> Click_here </a>
- ### ✅ Jenkins : <a href ="https://github.com/kortekar/Jenkins" target="_blank"> Click_here</a>
- ### ✅ Gitlab_cloning_problems : <a href="https://github.com/kortekar/Jenkins" target="_blank"> Click_here</a>
  ### ✅ DSA : <a href="https://github.com/kortekar/Problems" target="_blank"> Click_here</a>
+ ### ✅ Jenkins : <a href ="https://github.com/kortekar/Jenkins" target="_blank"> Click_here</a>
+ ### ✅ Terraforms : <a href ="https://github.com/kortekar/Terraforms" target="_blank"> Click_here </a>
+ ### ✅ Gitlab_cloning_problems : <a href="https://github.com/kortekar/Jenkins" target="_blank"> Click_here</a>
 
 # 
 <h3 align="left">Connect with me:💞 </h3>
