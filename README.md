@@ -4,9 +4,9 @@
 # Hi there 👋, i'm CHANDAN KORTEKAR
 
 ###### i was a WEB DEVELOPER 🖥️
-### Now I'm working as DEVOPS ENGINEER🤞🏻
+### Now I'm working as SOFTWARE ENGINEER🤞🏻
 
-- Currently Working💻 in an startup 👍 as a Devops Engineer 
+- Currently Working💻 in an startup 👍 as a SOFTWARE ENGINEER
 - 🛠️ I worked as an associate engineer trainee in PARVAM consult-tech pvt lmt 
 - 📚 I’m currently learning so many things❤️‍🔥
 - 💬 Ask me about WEB, Devops( Docker , Jenkins , Kubernetes , gradle , GCP , Git / Gitlab , Java , Springboot , Postgress , Terraforms , Junit , Linux ) 
