@@ -1,4 +1,4 @@
-<img src="header1" width="100%">
+<img src="mainheader.png" width="100%">
 
 
 # Hi there 👋, i'm CHANDAN KORTEKAR
