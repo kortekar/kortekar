@@ -4,13 +4,13 @@
 # Hi there 👋, i'm CHANDAN KORTEKAR
 
 ###### i was a WEB DEVELOPER 🖥️
-### Now I'm working as SOFTWARE ENGINEER🤞🏻
+### I'm currently working as a Founding Engineer🤞🏻
 
-- Currently Working💻 in an startup 👍 as a SOFTWARE ENGINEER
+- Currently Working💻 in an startup 👍
 - 🛠️ I worked as an associate engineer trainee in PARVAM consult-tech pvt lmt 
 - 📚 I’m currently learning so many things❤️‍🔥
 - 💬 Ask me about WEB, Devops( Docker , Jenkins , Kubernetes , gradle , GCP , Git / Gitlab , Java , Springboot , Postgress , Terraforms , Junit , Linux ) 
-- 📫 How to reach me: ckortekar93@gmail.com  // kortekardot30@gmail.com  // +91-7406244916
+- 📫 How to reach me: kortekar.04@gmail.com  // kortekardot30@gmail.com  // +91-7406244916
 - Portfolio -- <a href="https://kortekar.github.io/portfolio/" target="_blank"> CLICK HERE </a>
  # Tutorials ✍🏻 📝
  #### only for me🔪 but... it's OK ❤️‍🩹
